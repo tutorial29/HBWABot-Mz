@@ -1,6 +1,6 @@
 # HBWABot Mizo
 <p align="center">
-<img src="https://telegra.ph/file/72d28592653fef7eb4561.jpg" alt="nz" width="900"/>
+<img src="https://telegra.ph/file/3e98d0e763d25010f4ee8.jpg" alt="nz" width="900"/>
 </p>
 
 </details>
@@ -19,14 +19,9 @@
 * Number hmangin pair theih a ni bawk [Pair your number](https://replit.com/@HBMods/HBWABot-Mizo-Pairing-Code?v=1)
 </details>
 
-<b><details><summary>Sign up Heroku Account</summary></b>
+<b><details><summary>Sign up Scalingo Account</summary></b>
 
-* Heroku Account ila nei loh chuan [Create Heroku Account](https://heroku.com/)
-</details>
-
-<b><details><summary>Heroku Bin CC</summary></b>
-
-* Cradit Card hi hman tur i nei loh chuan Herbert-a bulah hian dil tur a ni [⚙️Dilna⚙️](https://api.whatsapp.com/send?phone=918416093656&text=Hi+Herbert+Bin+cc+min+lo+pe+ve+teh..)
+* Scalingo Account ila nei loh chuan [Create Scalinggo Account](https://scalingo.com/)
 </details>
 
 </details>
