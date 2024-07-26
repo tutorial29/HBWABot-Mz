@@ -35,7 +35,7 @@ global.author = "HBWABot"
 
 //BUTTON INPUT 
 global.buttonyt = "SUBSCRIBE"
-global.buttonyturl = "https://youtube.com/@HBMods_Channel
+global.buttonyturl = "https://youtube.com/@HBMods_Channel"
 global.buttonig = "Follow Us:)"
 global.buttonigurl = "https://www.instagram.com/herbert_suantak2"
 //_______________________________________________
